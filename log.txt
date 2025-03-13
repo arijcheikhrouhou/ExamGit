@@ -1,0 +1,8 @@
+*   c943b59 (HEAD -> main, origin/main, origin/HEAD) resolution conflicts
+|\  
+| * 98924f9  ajout de l affichafe de la date et heure
+* | 1342653 un nouveau msg dans app.py
+|/  
+* d594da6 ajout du fichier app.py
+* 42db6df Mise a jour README
+* d175b6e Initial commit
